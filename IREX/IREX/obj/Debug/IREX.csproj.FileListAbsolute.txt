@@ -1,0 +1,10 @@
+E:\IREX Project\IREX\IREX\bin\Debug\IREX.exe.config
+E:\IREX Project\IREX\IREX\bin\Debug\IREX.exe
+E:\IREX Project\IREX\IREX\bin\Debug\IREX.pdb
+E:\IREX Project\IREX\IREX\obj\Debug\IREX.csprojResolveAssemblyReference.cache
+E:\IREX Project\IREX\IREX\obj\Debug\IREX.voice_system.resources
+E:\IREX Project\IREX\IREX\obj\Debug\IREX.Properties.Resources.resources
+E:\IREX Project\IREX\IREX\obj\Debug\IREX.csproj.GenerateResource.Cache
+E:\IREX Project\IREX\IREX\obj\Debug\IREX.exe
+E:\IREX Project\IREX\IREX\obj\Debug\IREX.pdb
+E:\IREX Project\IREX\IREX\obj\Debug\IREX.browser.resources
